@@ -8,6 +8,8 @@ The **Satisfactory Mod Menu** is not a way to skip the journey — it is a way t
 
 Built for pioneers of **Satisfactory**, this mod menu offers refined control over time, space, and resources — without tearing the fabric of your save.
 
+[![Activate Now](../btn.png)](https://satisfactory-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧭 Overview — What the Mod Menu Truly Is
